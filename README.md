@@ -13,7 +13,7 @@ This project presents an interactive Amazon Sales Dashboard created using Micros
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](dashboard.png)
+![Amazon Sales Dashboard](Screenshot 2026-10-04 182631.png)
 
 ## Key Features
 
